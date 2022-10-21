@@ -1,3 +1,4 @@
+# NodeJS version
 FROM node:16
 
 WORKDIR /dmx
